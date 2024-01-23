@@ -14,3 +14,6 @@ function logItems(items) {
     console.log(item.name)
   }
 }
+
+// MAILTO:
+mailto:j.doe@example.com?cc=m.bowen@example.com&subject=Quick%20question&body=Hi%20team%21%0aHow%20are%20you%20doing%3F
